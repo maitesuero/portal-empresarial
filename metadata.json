@@ -1,0 +1,6 @@
+{
+  "name": "Portal Serbiomed · IGBT · Legatus",
+  "description": "Plataforma integral de fichaje en sitio, horas extra, permisos, vacaciones, tareas por empresa, reembolsos con factura y buzón de dirección.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
